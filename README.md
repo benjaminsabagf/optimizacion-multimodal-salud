@@ -8,5 +8,5 @@ El código utiliza la librería `SciPy` para resolver el problema de diseño óp
 
 La estimación de los parámetros del modelo de elección discreta se realiza mediante un código independiente desarrollado con el paquete `Biogeme`.
 
-*Nota: El código fuente está en preparación y será cargado en este repositorio próximamente.*
+*Nota: Los códigos están en preparación y serán cargados en este repositorio próximamente.*
 
