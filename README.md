@@ -6,7 +6,7 @@ Implementación en Python del modelo de optimización desarrollado para la tesis
 
 El código utiliza la librería `SciPy` para resolver el problema de diseño óptimo del corredor.
 
-La estimación de los parámetros del modelo de elección discreta se realiza mediante un código independiente desarrollado con el paquete Biogeme.
+La estimación de los parámetros del modelo de elección discreta se realiza mediante un código independiente desarrollado con el paquete `Biogeme`.
 
 *Nota: El código fuente está en preparación y será cargado en este repositorio próximamente.*
 
